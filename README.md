@@ -1,2 +1,2 @@
 # typescript-examples
-Some my TypeScript examples from udemy course.
+Some my TypeScript examples.
